@@ -22,4 +22,4 @@ Recreated the classic game 'Breakout' using SPL to set up the graphical interfac
 
 pset5
 -----
-Deciphered a secret message from bitmap file through file reading/writing for pixel manipulation
+Deciphered a secret message from bitmap file through file reading/writing for pixel manipulation.
