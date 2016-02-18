@@ -1,0 +1,19 @@
+0.  jpeg: 24 bit; gif: 8 bit; png: 8 bit (can be extended to 24 bit); bmp: many
+1.  only gif
+2.  lossless files will not lose data when uncompressed; lossy files will permanently remove information to reduce a file
+3.  jpeg is lossy; all others are lossless
+4.  only the metadata that points to the file is deleted, but leaves the disk blocks containing the file's contents intact
+5.  erasing or overwriting the disk
+6.  a library that contains the definition to most variable types
+7.  because the size of variables may be different on different operating systems, this way of defining is more accurate
+8.  1, 4, 4, 2
+9.  must be BM
+10. bfSize is the entire file's size in bits; biSize is just the info header's size
+11. it means the DIB is top-down
+12. biBitCount
+13. the file name might be illegal; document cannot be created
+14. only one element of data needs to be read
+15. 3
+16. it resets the file position indicator pointed by inptr by padding
+17. it means the offset is relative to the current position indicator
+18. Milo Banana dun it.
